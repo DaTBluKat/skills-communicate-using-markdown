@@ -6,3 +6,7 @@
 ``` html
 <h1>King of the world!</h1>
 ```
+
+- [ ] Figure out github
+- [ ] Learn to code faster
+- [ ] Eat pizza
